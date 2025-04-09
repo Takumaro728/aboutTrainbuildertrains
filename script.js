@@ -18,45 +18,6 @@ const orderedNames = [
 ];
 
 const stations = [
-    {
-    "name": "緑木川",
-    "image": "midori.png",
-    "description": "近くには自動運転時に使用されるトロッコを置いておく車両基地もある。",
-    "transfer": "中央線、貨物線、地下鉄",
-    "reference": "急行停車駅"
-    
-  },
-{
-    "name": "叢森西口",
-    "image": "kusamura.png",
-    "description": "ジャングルとの境目に作られた高架駅。地上は中央線が走る。",
-    "transfer": "中央線"
-  },
-{
-    "name": "網代",
-    "image": "ajiro.png",
-    "description": "通過線がホームの上にあるのが印象的な駅。2025.4/7現在、環状高速鉄道の最新駅である。",
-    "transfer": "中央線、新幹線"
-  },
-{
-    "name": "海森丘",
-    "image": "uminomori.png",
-    "description": "サイト制作者の推し駅。中央線、環状高速鉄道ホームどちらからでも京急蒲田へ伸びる高架が見える。",
-    "transfer": "中央線"
-  },
-{
-    "name": "京急蒲田",
-    "image": "keikyu.png",
-    "description": "他にはほぼない2層構造の駅。実際の京急蒲田との再現度に定評がある。",
-    "transfer": "メサ横断鉄道(連絡線経由)",
-    "reference": "急行停車駅"
-  },
-{
-    "name": "糀谷",
-    "image": "koujiya.png",
-    "description": "京急蒲田⇔糀谷は現実の路線を再現しており、平面交差を見ることができる。",
-    "transfer": "なし"
-  },
 {
     "name": "研究センター",
     "image": "kennkyuu.png",
@@ -122,6 +83,45 @@ const stations = [
     "description": "当時あった素材で作られた駅舎だそう。クオリティがとても高い。",
     "transfer": "ピリジャーライン",
     "reference": "急行停車駅"
+},
+    {
+    "name": "緑木川",
+    "image": "midori.png",
+    "description": "近くには自動運転時に使用されるトロッコを置いておく車両基地もある。",
+    "transfer": "中央線、貨物線、地下鉄",
+    "reference": "急行停車駅"
+    
+  },
+{
+    "name": "叢森西口",
+    "image": "kusamura.png",
+    "description": "ジャングルとの境目に作られた高架駅。地上は中央線が走る。",
+    "transfer": "中央線"
+  },
+{
+    "name": "網代",
+    "image": "ajiro.png",
+    "description": "通過線がホームの上にあるのが印象的な駅。2025.4/7現在、環状高速鉄道の最新駅である。",
+    "transfer": "中央線、新幹線"
+  },
+{
+    "name": "海森丘",
+    "image": "uminomori.png",
+    "description": "サイト制作者の推し駅。中央線、環状高速鉄道ホームどちらからでも京急蒲田へ伸びる高架が見える。",
+    "transfer": "中央線"
+  },
+{
+    "name": "京急蒲田",
+    "image": "keikyu.png",
+    "description": "他にはほぼない2層構造の駅。実際の京急蒲田との再現度に定評がある。",
+    "transfer": "メサ横断鉄道(連絡線経由)",
+    "reference": "急行停車駅"
+  },
+{
+    "name": "糀谷",
+    "image": "koujiya.png",
+    "description": "京急蒲田⇔糀谷は現実の路線を再現しており、平面交差を見ることができる。",
+    "transfer": "なし"
   }
 ];
 
