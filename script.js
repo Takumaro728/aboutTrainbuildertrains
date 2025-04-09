@@ -123,8 +123,9 @@ const stations = [
     "transfer": "ピリジャーライン",
     "reference": "急行停車駅"
   }
-]
+];
 
+createStationButtons(stations);
 
 
 window.onload = function () {
